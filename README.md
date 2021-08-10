@@ -7,5 +7,5 @@
 
 <b>Contenido del curso</b><br>
 <p>En el siguiente board de Miro podrá encontrar las clase asíncronas y las grabaciones de las clases síncronas</p>
-<a href="https://miro.com/app/board/o9J_lWAiZXE=/" target="_blank">Miro Board</a>
+<a href="https://miro.com/app/board/o9J_l2jTwEU=/" target="_blank">Miro Board</a>
 <br>
